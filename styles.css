@@ -1,0 +1,21 @@
+body{
+    background-color:burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+}
+a, a:visited,a:hover{
+    text-decoration: none;
+    color: crimson;
+}
+a:active{
+    color: rgb(0, 0, 0);
+}
+img{
+    display:inline-block;
+}
+h1{
+    text-align: center;
+}
+h1,h2,h3,h4,.text{
+    color:crimson;
+}
