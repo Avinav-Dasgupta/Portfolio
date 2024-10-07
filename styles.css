@@ -1,14 +1,14 @@
 body{
-    background-color:burlywood;
+    background-color:#FFF0D1;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:black;
+    color:#664343;
 }
 a, a:visited,a:hover{
     text-decoration: none;
-    color: crimson;
+    color: #3B3030;
 }
 a:active{
-    color: rgb(0, 0, 0);
+    color: #664343;
 }
 img{
     display:inline-block;
@@ -16,6 +16,6 @@ img{
 h1{
     text-align: center;
 }
-h1,h2,h3,h4,.text{
-    color:crimson;
+h1,h2,h3,h4{
+    color:#3B3030;
 }
